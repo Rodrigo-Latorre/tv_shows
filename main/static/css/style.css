@@ -3,6 +3,20 @@ body {
     background-size: cover;
 }
 
+#register {
+    background-image: url('https://mdbootstrap.com/img/Photos/new-templates/bootstrap-registration/draw1.png');
+    background-size: inherit;
+    background-color: rgb(255, 255, 255, 0.2);
+}
+
 input {
     width : 100%;
+}
+
+table {
+    max-height: 345px;
+}
+
+.actions {
+    width: 80px;
 }
